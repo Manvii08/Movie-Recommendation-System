@@ -16,6 +16,13 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 Create an account in https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your API sidebar once your request is approved.
 
+Sources of the datasets
+IMDB 5000 Movie Dataset
+The Movies Dataset
+List of movies in 2018
+List of movies in 2019
+List of movies in 2020
+
 Credits :
 
 • Kishan Lal ( Github username - kishan0725)
